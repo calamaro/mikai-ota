@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-http",
+    "version": 2,
+    "host": "https://github.com/calamaro/mikai-ota",
+    "port": 433,
+    "bin": "/fota/esp32-fota-http-2.bin"
+}
