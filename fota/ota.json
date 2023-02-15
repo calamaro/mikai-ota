@@ -1,5 +1,5 @@
 {
     "type": "esp32-mikai",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://github.com/calamaro/mikai-ota/raw/main/fota/firmware.bin"
 }
