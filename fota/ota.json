@@ -1,6 +1,6 @@
 {
     "type": "esp32-mikai",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "url": "https://github.com/calamaro/mikai-ota/raw/main/fota/firmware.bin",
     "enabled": true,
     "disabled_uids": []
